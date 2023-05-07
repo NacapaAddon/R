@@ -3,26 +3,26 @@
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/live-tv_202305/LIVE%20TV.png</thumbnail>
-<externallink></externallink>
-<fanart>https://archive.org/download/3_20211022_20211022_1411/3.png</fanart>
-<info>portugalkodi.com</info>
+<thumbnail>https://archive.org/download/13_20230507_20230507_2017/13.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/1_20230507_20230507_2029/1.jpg</fanart>
+<info>Assistir a canais de TV aberta online também oferece a vantagem de poder assistir a programas ao vivo de qualquer lugar do mundo, desde que haja uma conexão de internet estável disponível. Além disso, muitos canais oferecem a opção de assistir a episódios de programas já exibidos, permitindo que os espectadores assistam a programas que perderam quando foram ao ar originalmente.</info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR gold]FILMES[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/filmes_202305/FILMES.png</thumbnail>
-<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
+<thumbnail>https://archive.org/download/12_20230507_20230507/12.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/2_20230507_20230507_2031/2.jpg</fanart>
+<info>Assistir filmes online se tornou uma das formas mais populares de entretenimento na era digital. Com a facilidade de acesso à internet, é possível encontrar uma grande variedade de filmes de diferentes gêneros e épocas, desde clássicos até lançamentos recentes.</info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR gold]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/se-ries_202305/S%C3%89RIES.png</thumbnail>
-<externallink>https://pastebin.com/raw/qATfhjie</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
+<thumbnail>https://archive.org/download/11_20230507_20230507/11.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://archive.org/download/3_20230507_20230507_2033/3.jpg</fanart>
+<info>Assistir séries online é uma maneira cada vez mais popular de entretenimento. Com a possibilidade de ter acesso a uma grande variedade de títulos, muitas vezes em diferentes idiomas e de diferentes partes do mundo, é possível encontrar conteúdo para todos os gostos. Desde as séries mais populares até aquelas mais nichadas, as plataformas de streaming oferecem um vasto catálogo de opções.</info>
 </channel>
 
 </channels>
