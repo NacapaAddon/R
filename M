@@ -4,7 +4,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]LIVE TV[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/13_20230507_20230507_2017/13.png</thumbnail>
-<externallink>#</externallink>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/M2T/main/M2</externallink>
 <fanart>https://archive.org/download/1_20230507_20230507_2029/1.jpg</fanart>
 <info>Assistir a canais de TV aberta online também oferece a vantagem de poder assistir a programas ao vivo de qualquer lugar do mundo, desde que haja uma conexão de internet estável disponível. Além disso, muitos canais oferecem a opção de assistir a episódios de programas já exibidos, permitindo que os espectadores assistam a programas que perderam quando foram ao ar originalmente.</info>
 </channel>
