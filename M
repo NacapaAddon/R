@@ -18,9 +18,9 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR gold]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/11_20230507_20230507/11.png</thumbnail>
-<externallink>#</externallink>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/SR/main/SR2</externallink>
 <fanart>https://archive.org/download/3_20230507_20230507_2033/3.jpg</fanart>
 <info>Assistir séries online é uma maneira cada vez mais popular de entretenimento. Com a possibilidade de ter acesso a uma grande variedade de títulos, muitas vezes em diferentes idiomas e de diferentes partes do mundo, é possível encontrar conteúdo para todos os gostos. Desde as séries mais populares até aquelas mais nichadas, as plataformas de streaming oferecem um vasto catálogo de opções.</info>
 </channel>
